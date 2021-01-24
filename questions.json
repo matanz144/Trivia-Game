@@ -1,0 +1,9 @@
+{
+"2313": {"question": "How much is 2+2", "answers": ["3", "4", "2", "1"], "correct": 2},
+"4122": {"question": "What is the capital of France?", "answers": ["Lion", "Marseille", "Paris", "Montpellier"], "correct": 3},
+"0000": {"question": "How much is 12*2", "answers": ["23", "24", "222", "11"], "correct": 2},
+"2222": {"question": "How much is 50*6-3", "answers": ["223", "303", "297", "300"], "correct": 3},
+"3333": {"question": "How much is 20*8", "answers": ["150", "180", "130", "160"], "correct": 4},
+"4444": {"question": "What is the capital of Usa?", "answers": ["Washington", "Marseille", "New York", "Montpellier"], "correct": 1},
+"5555": {"question": "What is the capital of Israel?", "answers": ["Jerusalem", "Holon", "Paris", "Tel-Aviv"], "correct": 1}
+}
