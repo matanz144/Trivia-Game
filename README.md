@@ -9,6 +9,6 @@ Trivia game implemented by communication with server and client using python.
 
 #### Screenshots:
 
-![alt text] (https://github.com/matanz144/Trivia-Game/blob/main/screenshots/img1.PNG)
-![alt text] (https://github.com/matanz144/Trivia-Game/blob/main/screenshots/img2.PNG)
-![alt text] (https://github.com/matanz144/Trivia-Game/blob/main/screenshots/img3.PNG)
+![trivia1] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img1.PNG)
+![trivia2] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img2.PNG)
+![trivia3] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img3.PNG)
