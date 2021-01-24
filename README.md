@@ -2,10 +2,10 @@
 Trivia game implemented by communication with server and client using python.
 
 ### How to run:
-1. Clone the repository to you local
-2. Run server.py file and then the clien.py
-3. For more client just open another terminal and run the client.py file
-4. list of prepared users and their password are inside the user.json file 
+1. Clone the repository to your local
+2. Run server.py file and then the client.py
+3. For more clients just open another terminal and run the client.py file
+4. list of prepared users and their passwords are inside the user.json file 
 
 #### Screenshots:
 
