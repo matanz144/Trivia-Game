@@ -7,9 +7,8 @@ Trivia game implemented by communication with server and client using python.
 3. For more client just open another terminal and run the client.py file
 4. list of prepared users and their password are inside the user.json file 
 
-##### Screenshots:
+#### Screenshots:
 
-![alt text]
-![alt text]
-![alt text]
-![alt text]
+![alt text] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img1.PNG)
+![alt text] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img2.PNG)
+![alt text] (https://github.com/matanz144/Trivia-Game/tree/main/screenshots/img3.PNG)
